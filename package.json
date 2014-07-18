@@ -1,0 +1,11 @@
+{
+  "name": "express-practice",
+  "author": "leoshawn",
+  "description": "express-practice",
+  "devDependencies": {
+    "body-parser": "^1.4.3",
+    "express": "",
+    "morgan": "^1.1.1",
+    "redis": "^0.11.0"
+  }
+}
